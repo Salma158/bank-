@@ -1,0 +1,21 @@
+.header_area .main-menu .navbar .navbar-brand{
+    padding: 0 2rem 0 5rem;
+    color: crimson;
+  
+}
+.header_area .main-menu .navbar{
+    padding: 1rem 15rem ;
+}
+.header_area .main-menu .nav-item .nav-link{
+    text-transform: uppercase;
+    padding: 1.7rem;
+    font-weight: 700;
+    color: rgb(51, 169, 38);
+}
+
+.header_area .main-menu .navbar-nav a:hover{
+    background-color: rgb(43, 202, 25);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
